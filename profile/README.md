@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-## 🙋‍♀️ Purpoose:
+## 🙋‍♀️ Purpose:
 This organization was created to manage the code and further development of the open-source code behind the Stripe App for SFDC
 ## 🌈 Contribution guidelines:
 To be described
