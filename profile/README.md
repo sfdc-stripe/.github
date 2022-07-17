@@ -2,7 +2,7 @@
 
 
 ## 🙋‍♀️ Purpose:
-This organization was created to manage the code and further development of the open-source code behind the Stripe App for SFDC
+This Github organization was created to manage the code and further development of the open-source code behind the Stripe App for SFDC
 ## 🚀 Get started
 
 1. Download, clone or fork [the frontend repo](https://github.com/sfdc-stripe/sfdc-stripe-frontend)
