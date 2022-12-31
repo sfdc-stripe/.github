@@ -16,3 +16,6 @@ To be described
 1. The docs for [Stripe Apps](https://stripe.com/docs/stripe-apps) 
 2. Get help via [StackOverflow](https://stackoverflow.com/questions/tagged/sfdcstripe) using the tag `stripeappsfdc` 
 3. Get help by opening an issue in the repo of the front-end of the app
+
+## 👌 Credits & Thanks
+The project's logo has been designed by [Mike](https://www.linkedin.com/in/DesignForsher)
