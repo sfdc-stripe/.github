@@ -19,3 +19,5 @@ To be described
 
 ## 👌 Credits & Thanks
 The project's logo has been designed by [Mike](https://www.linkedin.com/in/DesignForsher)
+
+Code implementation by [API Plant](https://www.apiplant.com)
